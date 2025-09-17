@@ -1,0 +1,4 @@
+│    ├── model/
+│    │    └── model.pth
+│    └── data/
+│         └── clean_data.p
